@@ -4,7 +4,7 @@ Want to activate Windows but don't know what to use?
 
 This will help you!
 
-**Disclaimer**: Please only follow this guide legally.
+**Disclaimer**: Please only follow this guide legally. I take no responsibility for legal action being taken against you for following this guide.
 
 ## How to Use
 
