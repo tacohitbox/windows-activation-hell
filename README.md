@@ -93,7 +93,7 @@ If you don't have 7Zip installed, or the link above is dead, grab [this file](ht
 ##### Running Instructions
 
 1. Extract the ZIP/7z file.
-2. Go into the extacted folder, go to /All-In-One-Version and run the ``.cmd``.
+2. Go into the extacted folder, go to ``/All-In-One-Version`` and run the ``.cmd``.
 3. If you get a warning, click "More info > Run anyway".
 4. Accept the Administrative prompt.
 5. Press the 1 button once, wait for the terminal screen to change, and press 1 again. 
@@ -121,7 +121,7 @@ A download of the Windows Loader [is available here](https://tknk.io/CaTW).
 ##### Running Instructions
 
 1. Extract the zip file.
-2. Go into the extracted folder and go to /Windows 7 Loader [2021 Update] and double click the executable.
+2. Go into the extracted folder and go to ``/Windows 7 Loader [2021 Update]`` and double click the executable.
 3. If you get warnings, click "Yes" on them.
 4. Find the window that is called "Windows Loader v2.2.1 - By Daz", shown below.
 
